@@ -1,6 +1,6 @@
 # Conditions générales du service de déploiement dédié Questovery
 
-Version 1.0 - en vigueur à compter du 27 mai 2026.
+Version 1.2 - en vigueur à compter du 29 mai 2026.
 
 LEZO, entreprise unipersonnelle à responsabilité limitée au capital social de 100 euros, immatriculée sous le numéro SIREN 921 329 025, établissement SIRET 921 329 025 00024, RCS Nantes, TVA intracommunautaire FR23921329025, dont le siège social est situé 21 Boulevard Auguste Pageot, 44000 Nantes, représentée par Monsieur Simon BOISSET, agissant en qualité de gérant, est l'éditeur et le prestataire du service de déploiement dédié Questovery.
 
@@ -14,14 +14,14 @@ Elles s'appliquent à toute commande, devis, bon de commande, proposition commer
 
 Le service de déploiement dédié peut notamment prendre la forme :
 
-- d'une instance applicative dédiée administrée par LEZO ou par un prestataire retenu par LEZO ;
-- d'un déploiement sur infrastructure fournie, choisie ou contrôlée par le Client ;
-- d'une exploitation sous identité client, marque blanche ou identité commerciale convenue ;
-- d'une ou plusieurs applications mobiles dédiées ;
-- d'une application web dédiée ;
-- d'une application serveur/API dédiée ;
-- d'une base de données, d'un espace de stockage, de ressources cloud, de conteneurs, de configurations, de noms de domaine ou de services techniques distincts ;
-- d'un maintien d'adaptations propres au Client ;
+- d'une instance applicative dédiée administrée par LEZO ou par un prestataire retenu par LEZO
+- d'un déploiement sur infrastructure fournie, choisie ou contrôlée par le Client
+- d'une exploitation sous identité client, marque blanche ou identité commerciale convenue
+- d'une ou plusieurs applications mobiles dédiées
+- d'une application web dédiée
+- d'une application serveur/API dédiée
+- d'une base de données, d'un espace de stockage, de ressources cloud, de conteneurs, de configurations, de noms de domaine ou de services techniques distincts
+- d'un maintien d'adaptations propres au Client
 - d'une combinaison de ces éléments.
 
 Les présentes CGV Déploiement dédié sont réservées aux clients professionnels. Elles ne constituent pas des conditions destinées aux consommateurs finaux, joueurs, participants ou clients du Client.
@@ -38,9 +38,9 @@ En cas de contradiction, les stipulations particulières expressément acceptée
 
 Sauf ordre de priorité différent expressément accepté par les parties, l'ordre de priorité est le suivant :
 
-1. les Conditions particulières les plus récentes, pour les stipulations qu'elles complètent ou modifient expressément ;
-2. les annexes ou stipulations particulières relatives aux données personnelles, à la réversibilité, à la sécurité ou aux niveaux de service, lorsqu'elles existent, pour leur objet propre ;
-3. les présentes CGV Déploiement dédié ;
+1. les Conditions particulières les plus récentes, pour les stipulations qu'elles complètent ou modifient expressément
+2. les annexes ou stipulations particulières relatives aux données personnelles, à la réversibilité, à la sécurité ou aux niveaux de service, lorsqu'elles existent, pour leur objet propre
+3. les présentes CGV Déploiement dédié
 4. les documents techniques ou fonctionnels référencés.
 
 Les conditions générales d'achat ou documents standard du Client sont inopposables à LEZO, sauf acceptation expresse et écrite.
@@ -105,11 +105,11 @@ Lorsque le Déploiement dédié est installé ou exploité sur une infrastructur
 
 Les Conditions particulières précisent alors, selon les cas :
 
-- les prérequis techniques ;
-- les accès à fournir à LEZO ;
-- les responsabilités respectives en matière d'administration, sauvegarde, supervision, sécurité, mise à jour et restauration ;
-- les limites du support fourni par LEZO ;
-- les éventuels frais d'installation, audit, migration, intervention ou assistance ;
+- les prérequis techniques
+- les accès à fournir à LEZO
+- les responsabilités respectives en matière d'administration, sauvegarde, supervision, sécurité, mise à jour et restauration
+- les limites du support fourni par LEZO
+- les éventuels frais d'installation, audit, migration, intervention ou assistance
 - les conséquences d'une infrastructure non conforme ou insuffisante.
 
 LEZO n'est pas responsable des indisponibilités, pertes de performance, incidents de sécurité, pertes de données, coûts ou non-conformités résultant d'une infrastructure client, d'un prestataire choisi par le Client, d'un accès insuffisant, d'une modification non validée ou d'une contrainte technique imposée par le Client.
@@ -152,10 +152,10 @@ Ce droit est limité aux besoins professionnels du Client, au périmètre d'expl
 
 Le Client s'interdit de :
 
-- copier, reproduire, décompiler, désassembler, extraire, reconstituer ou faire développer à partir de Questovery tout code source, architecture, logique métier, modèle de données, API, interface, méthode ou composant protégé de LEZO ;
-- céder, louer, prêter, sous-licencier, commercialiser ou mettre Questovery à disposition d'un tiers hors du périmètre autorisé ;
-- supprimer les mentions techniques, légales, de sécurité, d'édition ou de propriété ;
-- utiliser le Déploiement dédié pour un usage illicite, frauduleux, contraire aux droits de tiers ou non conforme aux Conditions particulières ;
+- copier, reproduire, décompiler, désassembler, extraire, reconstituer ou faire développer à partir de Questovery tout code source, architecture, logique métier, modèle de données, API, interface, méthode ou composant protégé de LEZO
+- céder, louer, prêter, sous-licencier, commercialiser ou mettre Questovery à disposition d'un tiers hors du périmètre autorisé
+- supprimer les mentions techniques, légales, de sécurité, d'édition ou de propriété
+- utiliser le Déploiement dédié pour un usage illicite, frauduleux, contraire aux droits de tiers ou non conforme aux Conditions particulières
 - présenter Questovery comme une technologie dont il serait propriétaire, sauf pour ses propres contenus, marques, scénarios, données ou expériences.
 
 ## 6. Formules de service
@@ -168,12 +168,12 @@ La formule « Socle mutualisé » s'applique lorsque le Client exploite le Dépl
 
 Elle peut inclure, selon le scénario retenu :
 
-- l'accès à Questovery dans le cadre du Déploiement dédié ;
-- l'hébergement ou l'accompagnement d'exploitation prévu ;
-- la maintenance corrective du Socle commun Questovery ;
-- les mises à jour standard du Socle commun Questovery ;
-- un monitoring technique raisonnable ;
-- des sauvegardes standard ;
+- l'accès à Questovery dans le cadre du Déploiement dédié
+- l'hébergement ou l'accompagnement d'exploitation prévu
+- la maintenance corrective du Socle commun Questovery
+- les mises à jour standard du Socle commun Questovery
+- un monitoring technique raisonnable
+- des sauvegardes standard
 - un support courant d'exploitation.
 
 ### 6.2. Formule Socle mutualisé avec adaptations maintenues
@@ -188,19 +188,19 @@ Elle ne couvre pas les demandes nouvelles ou substantielles du Client, ni les d�
 
 Les Conditions particulières peuvent prévoir des services renforcés ou sur mesure, notamment :
 
-- ressources d'infrastructure renforcées ;
-- haute disponibilité ;
-- sauvegardes renforcées ;
-- CDN ;
-- stockage important ;
-- vidéo, média lourd ou usage géolocalisé intensif ;
-- niveaux de service spécifiques ;
-- intervention hors plage ouvrée ;
-- assistance sur site ;
-- support avancé ;
-- développement spécifique ;
-- intégration tierce ;
-- migration ou réversibilité avancée ;
+- ressources d'infrastructure renforcées
+- haute disponibilité
+- sauvegardes renforcées
+- CDN
+- stockage important
+- vidéo, média lourd ou usage géolocalisé intensif
+- niveaux de service spécifiques
+- intervention hors plage ouvrée
+- assistance sur site
+- support avancé
+- développement spécifique
+- intégration tierce
+- migration ou réversibilité avancée
 - maintenance d'une variante fonctionnelle propre au Client.
 
 Ces services donnent lieu à un devis, un avenant, une annexe financière ou des Conditions particulières. Aucun service renforcé ou sur mesure n'est inclus par défaut.
@@ -214,6 +214,9 @@ Sauf stipulation contraire dans les Conditions particulières, les paramètres p
 | Scénario d'hébergement | Déploiement administré par LEZO ou par un prestataire choisi par LEZO, sur infrastructure cloud ou ressources équivalentes. |
 | Infrastructure client / on-premise | Non incluse par défaut. Elle doit être prévue par les Conditions particulières. |
 | Périmètre applicatif inclus | Un environnement de production comprenant les composants web, serveur/API, base de données et stockage nécessaires au Déploiement dédié. |
+| Stockage applicatif et médias | Stockage raisonnable des données, médias, photos, images ou fichiers nécessaires à l'exploitation courante des parcours ou services souscrits. |
+| E-mails transactionnels | Envoi raisonnable des e-mails transactionnels nécessaires au fonctionnement courant du service, hors e-mailing marketing ou massif. |
+| Trafic applicatif, API et cartographie standard | Trafic applicatif et API courant, ainsi qu'usage cartographique standard nécessaires aux fonctionnalités souscrites, dans la limite d'un usage raisonnable et des coûts normalement absorbés par le forfait. |
 | Environnements de test, recette ou préproduction | Non inclus par défaut, sauf environnement temporaire mis à disposition par LEZO pendant une phase de recette. |
 | Application mobile dédiée | Non incluse par défaut. Lorsqu'une application mobile dédiée est expressément incluse, elle couvre une identité applicative, une application iOS, une application Android et une fiche par store, dans le périmètre fonctionnel convenu. |
 | Comptes stores | Publication via Compte Store Client par défaut. Toute publication via Compte Store LEZO doit être acceptée par écrit. |
@@ -241,7 +244,9 @@ Sauf stipulation contraire dans les Conditions particulières, les paramètres p
 | Adresse de notification LEZO | simon@lezo.dev, sauf adresse différente communiquée par LEZO. |
 | Droit applicable et juridiction | Droit français ; juridictions compétentes du ressort de Nantes, sauf règle impérative contraire. |
 
-Ces paramètres par défaut peuvent être complétés, renforcés ou remplacés par les Conditions particulières. Toute demande de haute disponibilité, sauvegarde renforcée, restauration prioritaire, SLA, infrastructure dédiée, astreinte, intervention hors plage ouvrée, environnement supplémentaire, audit de sécurité, export avancé ou migration fait l'objet d'un devis, d'un avenant, d'une annexe financière ou d'un accord écrit.
+Ces paramètres par défaut constituent le scénario standard applicable sans reprise nécessaire dans les Conditions particulières. Les Conditions particulières peuvent les compléter, les renforcer ou les remplacer uniquement pour les éléments qu'elles visent expressément.
+
+Toute demande de haute disponibilité, sauvegarde renforcée, restauration prioritaire, SLA, infrastructure dédiée, astreinte, intervention hors plage ouvrée, environnement supplémentaire, audit de sécurité, export avancé, migration, CDN dédié, stockage renforcé, vidéo lourde, streaming vidéo ou usage de service tiers dépassant le périmètre standard fait l'objet d'un devis, d'un avenant, d'une annexe financière ou d'un accord écrit.
 
 ## 8. Démarrage du Forfait d'exploitation dédié
 
@@ -249,10 +254,10 @@ Sauf stipulation contraire, le Forfait d'exploitation dédié ne démarre pas pe
 
 Il démarre à la première des dates suivantes :
 
-- la publication effective d'une application mobile dédiée sur un store ou un canal de distribution ;
-- la mise à disposition du Déploiement dédié à des utilisateurs réels ;
-- la première Exploitation commerciale ;
-- la Mise en production ;
+- la publication effective d'une application mobile dédiée sur un store ou un canal de distribution
+- la mise à disposition du Déploiement dédié à des utilisateurs réels
+- la première Exploitation commerciale
+- la Mise en production
 - la date convenue par écrit dans les Conditions particulières.
 
 Lorsque plusieurs applications, stores, environnements, marques ou parcours sont déployés progressivement, le démarrage du forfait intervient dès la première occurrence de l'un des événements ci-dessus, sauf stipulation contraire.
@@ -275,7 +280,9 @@ Tout retard de paiement entraîne, de plein droit et sans rappel préalable, l'e
 
 En cas de retard de paiement, LEZO peut suspendre les prestations, accès, livraisons, maintenance, support ou travaux en cours après notification restée sans effet pendant sept (7) jours calendaires, sauf urgence, risque de sécurité ou clause plus stricte prévue par les Conditions particulières.
 
-Les frais de déplacement, hébergement, licences, achats médias, services tiers payants, comptes stores, frais Apple, frais Google, commissions, frais Stripe, API, cartographie, SMS, e-mails transactionnels, CDN, vidéo, ressources renforcées ou frais exceptionnels sont exclus, sauf stipulation contraire.
+Les frais de déplacement, d'hébergement de personnes, licences, achats médias, services tiers payants non prévus au périmètre standard, comptes stores, frais Apple, frais Google, commissions, frais Stripe, SMS, usages d'e-mailing marketing ou massif, API tierces payantes non prévues, coûts cartographiques exceptionnels ou dépassant un usage raisonnable, CDN dédiés, stockage renforcé, vidéo lourde, streaming vidéo, ressources renforcées ou frais exceptionnels sont exclus, sauf stipulation contraire.
+
+Le stockage courant des médias nécessaires aux parcours, les e-mails transactionnels courants nécessaires au fonctionnement du service, le trafic applicatif et API courant, ainsi que l'usage cartographique standard prévu au périmètre fonctionnel souscrit sont inclus dans le dimensionnement raisonnable du Forfait d'exploitation dédié, sous réserve des seuils, volumes et conditions de redimensionnement prévus par les présentes CGV Déploiement dédié ou les Conditions particulières.
 
 ## 10. Dimensionnement, seuils et évolution tarifaire
 
@@ -285,16 +292,17 @@ Les seuils techniques ne constituent pas une garantie de volume commercial, de n
 
 Peuvent notamment justifier un redimensionnement, une migration d'infrastructure, un passage à une formule supérieure, une annexe financière modificative, un avenant ou un devis complémentaire :
 
-- une charge CPU moyenne durable supérieure à soixante-dix pour cent (70 %) ;
-- une consommation mémoire moyenne durable supérieure à quatre-vingts pour cent (80 %) ;
-- une occupation durable du stockage supérieure à quatre-vingts pour cent (80 %) ;
-- un volume important de médias, photos, vidéos, fichiers ou bande passante ;
-- une augmentation significative du trafic API, des synchronisations, traitements, sauvegardes ou usages de géolocalisation ;
-- l'ajout d'applications mobiles, marques, environnements, fiches stores ou canaux de distribution ;
-- un besoin de ressources renforcées, haute disponibilité, sauvegarde renforcée, CDN, stockage important, vidéo lourde ou capacité exceptionnelle ;
-- le maintien d'Adaptations maintenues non prévues initialement ;
-- un développement sur mesure ou une variante fonctionnelle propre au Client ;
-- une contrainte d'infrastructure client augmentant la charge d'exploitation ;
+- une charge CPU moyenne durable supérieure à soixante-dix pour cent (70 %)
+- une consommation mémoire moyenne durable supérieure à quatre-vingts pour cent (80 %)
+- une occupation durable du stockage supérieure à quatre-vingts pour cent (80 %)
+- un volume important de médias, photos, vidéos, fichiers ou bande passante
+- une augmentation significative du trafic API, des synchronisations, traitements, sauvegardes ou usages de géolocalisation
+- une augmentation significative du volume d'e-mails transactionnels, du coût de services cartographiques ou du coût de services tiers nécessaires à l'exploitation
+- l'ajout d'applications mobiles, marques, environnements, fiches stores ou canaux de distribution
+- un besoin de ressources renforcées, haute disponibilité, sauvegarde renforcée, CDN dédié, stockage important, vidéo lourde, streaming vidéo ou capacité exceptionnelle
+- le maintien d'Adaptations maintenues non prévues initialement
+- un développement sur mesure ou une variante fonctionnelle propre au Client
+- une contrainte d'infrastructure client augmentant la charge d'exploitation
 - l'évolution des coûts imposés par un prestataire tiers.
 
 Lorsque l'évolution nécessaire correspond à un palier ou une formule déjà prévu par les Conditions particulières, LEZO peut notifier l'application de ce palier ou de cette formule pour la période de facturation suivante, sans effet rétroactif, sauf accord contraire.
@@ -405,15 +413,15 @@ LEZO n'est pas responsable des validations KYC, refus d'ouverture de compte, blo
 
 Le Client demeure responsable :
 
-- de ses contenus, scénarios, textes, images, vidéos, sons, énigmes, parcours, marques et supports commerciaux ;
-- de la licéité des contenus et médias fournis ou importés ;
-- de sa relation commerciale avec ses clients finaux, joueurs, partenaires, distributeurs, sites touristiques, collectivités, hébergeurs ou prestataires ;
-- de ses prix, conditions de vente, conditions d'utilisation, mentions légales, politiques de confidentialité et obligations d'information ;
-- du support de premier niveau auprès de ses utilisateurs finaux, sauf accord contraire ;
-- de la gestion des remboursements, réclamations commerciales, litiges clients et obligations fiscales ;
-- des informations, accès, validations, contenus et éléments nécessaires à l'exploitation ;
-- de la sécurité de ses équipements, réseaux, comptes, mots de passe, terminaux, accès administrateurs et pratiques internes ;
-- de la conformité de son infrastructure lorsque celle-ci est fournie ou choisie par lui ;
+- de ses contenus, scénarios, textes, images, vidéos, sons, énigmes, parcours, marques et supports commerciaux
+- de la licéité des contenus et médias fournis ou importés
+- de sa relation commerciale avec ses clients finaux, joueurs, partenaires, distributeurs, sites touristiques, collectivités, hébergeurs ou prestataires
+- de ses prix, conditions de vente, conditions d'utilisation, mentions légales, politiques de confidentialité et obligations d'information
+- du support de premier niveau auprès de ses utilisateurs finaux, sauf accord contraire
+- de la gestion des remboursements, réclamations commerciales, litiges clients et obligations fiscales
+- des informations, accès, validations, contenus et éléments nécessaires à l'exploitation
+- de la sécurité de ses équipements, réseaux, comptes, mots de passe, terminaux, accès administrateurs et pratiques internes
+- de la conformité de son infrastructure lorsque celle-ci est fournie ou choisie par lui
 - du respect des règles applicables aux données personnelles pour les traitements dont il est responsable.
 
 Le Client déclare disposer, ou s'engage à mettre en place avant toute Exploitation commerciale, les documents d'information et conditions applicables à ses clients finaux et joueurs, notamment conditions générales de vente ou d'utilisation, politique de confidentialité, mentions légales, informations relatives aux paiements, remboursements, géolocalisation, photos, médias, mineurs le cas échéant, et tout consentement requis.
@@ -450,13 +458,13 @@ Les traitements peuvent notamment porter sur les comptes, identifiants, coordonn
 
 LEZO s'engage, en qualité de sous-traitant, à :
 
-- traiter les données personnelles uniquement sur instruction documentée du Client, les présentes CGV Déploiement dédié, les Conditions particulières et les demandes écrites du Client constituant des instructions documentées ;
-- informer le Client si une instruction lui paraît manifestement contraire au RGPD ou à une autre règle applicable en matière de protection des données ;
-- veiller à ce que les personnes autorisées à traiter les données soient soumises à une obligation de confidentialité appropriée ;
-- mettre en oeuvre des mesures techniques et organisationnelles raisonnables adaptées au service, aux risques et au scénario de déploiement ;
-- aider raisonnablement le Client, compte tenu de la nature du service et des informations disponibles, à répondre aux demandes d'exercice de droits, aux obligations de sécurité, aux notifications de violation de données et aux analyses d'impact lorsque le traitement concerné relève du périmètre du Déploiement dédié ;
-- notifier au Client, dans les meilleurs délais après en avoir eu connaissance, toute violation de données personnelles affectant les données traitées pour son compte et susceptible de lui imposer une obligation de notification ;
-- mettre à disposition les informations raisonnablement nécessaires pour démontrer le respect des obligations prévues au présent article et permettre des audits documentaires raisonnables, dans les limites de la sécurité, de la confidentialité, des droits de tiers, des secrets d'affaires et du périmètre contractuel ;
+- traiter les données personnelles uniquement sur instruction documentée du Client, les présentes CGV Déploiement dédié, les Conditions particulières et les demandes écrites du Client constituant des instructions documentées
+- informer le Client si une instruction lui paraît manifestement contraire au RGPD ou à une autre règle applicable en matière de protection des données
+- veiller à ce que les personnes autorisées à traiter les données soient soumises à une obligation de confidentialité appropriée
+- mettre en oeuvre des mesures techniques et organisationnelles raisonnables adaptées au service, aux risques et au scénario de déploiement
+- aider raisonnablement le Client, compte tenu de la nature du service et des informations disponibles, à répondre aux demandes d'exercice de droits, aux obligations de sécurité, aux notifications de violation de données et aux analyses d'impact lorsque le traitement concerné relève du périmètre du Déploiement dédié
+- notifier au Client, dans les meilleurs délais après en avoir eu connaissance, toute violation de données personnelles affectant les données traitées pour son compte et susceptible de lui imposer une obligation de notification
+- mettre à disposition les informations raisonnablement nécessaires pour démontrer le respect des obligations prévues au présent article et permettre des audits documentaires raisonnables, dans les limites de la sécurité, de la confidentialité, des droits de tiers, des secrets d'affaires et du périmètre contractuel
 - supprimer, anonymiser ou restituer les données à la fin du service selon les règles de réversibilité et de suppression prévues par les présentes CGV Déploiement dédié, sauf obligation légale, besoin de preuve, sauvegarde temporaire ou contrainte technique documentée.
 
 Le Client autorise LEZO à recourir à des sous-traitants ultérieurs et prestataires techniques nécessaires à l'exécution du service, notamment hébergeurs, services cloud, stockage, e-mail transactionnel, supervision, gestion d'erreurs, paiement, cartographie, analytics, stores, outils de support ou services équivalents. LEZO demeure responsable à l'égard du Client de la bonne exécution des prestations confiées à ces sous-traitants ultérieurs dans les limites des documents contractuels applicables et s'assure qu'ils sont soumis à des obligations de protection des données appropriées.
@@ -483,15 +491,15 @@ Les logs techniques et de sécurité sont conservés selon les paramètres par d
 
 LEZO peut suspendre tout ou partie du service, sans indemnité au profit du Client, dans les cas suivants :
 
-- défaut de paiement ;
-- violation substantielle des documents contractuels applicables ;
-- utilisation illicite, frauduleuse, abusive ou non conforme de la Solution ;
-- risque sérieux pour la sécurité, la stabilité, l'intégrité ou la disponibilité de Questovery ;
-- atteinte aux droits de LEZO ou de tiers ;
-- contenu manifestement illicite ou susceptible d'engager la responsabilité de LEZO ;
-- comportement du Client ou de ses utilisateurs mettant en péril la Solution, les données ou les droits de tiers ;
-- dépassement important et durable des capacités incluses sans accord sur une adaptation tarifaire ;
-- contrainte imposée par un store, prestataire tiers, autorité administrative ou décision de justice ;
+- défaut de paiement
+- violation substantielle des documents contractuels applicables
+- utilisation illicite, frauduleuse, abusive ou non conforme de la Solution
+- risque sérieux pour la sécurité, la stabilité, l'intégrité ou la disponibilité de Questovery
+- atteinte aux droits de LEZO ou de tiers
+- contenu manifestement illicite ou susceptible d'engager la responsabilité de LEZO
+- comportement du Client ou de ses utilisateurs mettant en péril la Solution, les données ou les droits de tiers
+- dépassement important et durable des capacités incluses sans accord sur une adaptation tarifaire
+- contrainte imposée par un store, prestataire tiers, autorité administrative ou décision de justice
 - impossibilité d'intervenir dans des conditions raisonnables sur une infrastructure client.
 
 Sauf urgence, risque juridique, risque de sécurité ou contrainte légale, LEZO informe le Client de la suspension et de ses motifs.

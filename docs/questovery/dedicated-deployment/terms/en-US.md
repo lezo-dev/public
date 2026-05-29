@@ -1,6 +1,6 @@
 # General Terms and Conditions for the Questovery Dedicated Deployment Service
 
-Version 1.0 - effective as of May 27, 2026.
+Version 1.2 - effective as of May 29, 2026.
 
 **Reference language notice:** This English translation is provided for convenience only. In case of discrepancy, inconsistency, or interpretation difference, the French version shall prevail.
 
@@ -16,14 +16,14 @@ They apply to any order, quote, purchase order, commercial proposal, specific te
 
 The dedicated deployment service may in particular take the form of:
 
-- a dedicated application instance administered by LEZO or by a provider selected by LEZO;
-- a deployment on infrastructure supplied, chosen or controlled by the Customer;
-- operation under customer identity, white label or agreed commercial identity;
-- one or more dedicated mobile applications;
-- a dedicated web application;
-- a dedicated server/API application;
-- a database, storage space, cloud resources, containers, configurations, domain names or separate technical services;
-- maintenance of adaptations specific to the Customer;
+- a dedicated application instance administered by LEZO or by a provider selected by LEZO
+- a deployment on infrastructure supplied, chosen or controlled by the Customer
+- operation under customer identity, white label or agreed commercial identity
+- one or more dedicated mobile applications
+- a dedicated web application
+- a dedicated server/API application
+- a database, storage space, cloud resources, containers, configurations, domain names or separate technical services
+- maintenance of adaptations specific to the Customer
 - a combination of these elements.
 
 These Dedicated Deployment Terms are reserved for professional customers. They do not constitute terms intended for consumers, players, participants or the Customer's own customers.
@@ -40,9 +40,9 @@ In the event of contradiction, the specific provisions expressly accepted by the
 
 Unless a different order of priority is expressly accepted by the parties, the order of priority is as follows:
 
-1. the most recent Specific Terms, for the provisions they expressly supplement or modify;
-2. appendices or specific provisions relating to personal data, reversibility, security or service levels, where they exist, for their own subject matter;
-3. these Dedicated Deployment Terms;
+1. the most recent Specific Terms, for the provisions they expressly supplement or modify
+2. appendices or specific provisions relating to personal data, reversibility, security or service levels, where they exist, for their own subject matter
+3. these Dedicated Deployment Terms
 4. referenced technical or functional documents.
 
 The Customer's general purchasing terms or standard documents are not enforceable against LEZO unless expressly accepted in writing.
@@ -107,11 +107,11 @@ When the Dedicated Deployment is installed or operated on infrastructure supplie
 
 The Specific Terms then specify, as applicable:
 
-- technical prerequisites;
-- access to be provided to LEZO;
-- respective responsibilities for administration, backup, supervision, security, updates and restoration;
-- limits of the support provided by LEZO;
-- any installation, audit, migration, intervention or assistance fees;
+- technical prerequisites
+- access to be provided to LEZO
+- respective responsibilities for administration, backup, supervision, security, updates and restoration
+- limits of the support provided by LEZO
+- any installation, audit, migration, intervention or assistance fees
 - consequences of non-compliant or insufficient infrastructure.
 
 LEZO is not responsible for unavailability, loss of performance, security incidents, data loss, costs or non-compliance resulting from customer infrastructure, a provider chosen by the Customer, insufficient access, an unvalidated modification or a technical constraint imposed by the Customer.
@@ -154,10 +154,10 @@ This right is limited to the Customer's professional needs, the accepted operati
 
 The Customer shall not:
 
-- copy, reproduce, decompile, disassemble, extract, reconstruct or have developed from Questovery any source code, architecture, business logic, data model, API, interface, method or protected LEZO component;
-- assign, rent, lend, sublicense, commercialize or make Questovery available to a third party outside the authorized scope;
-- remove technical, legal, security, publisher or ownership notices;
-- use the Dedicated Deployment for an unlawful or fraudulent purpose, contrary to third-party rights or non-compliant with the Specific Terms;
+- copy, reproduce, decompile, disassemble, extract, reconstruct or have developed from Questovery any source code, architecture, business logic, data model, API, interface, method or protected LEZO component
+- assign, rent, lend, sublicense, commercialize or make Questovery available to a third party outside the authorized scope
+- remove technical, legal, security, publisher or ownership notices
+- use the Dedicated Deployment for an unlawful or fraudulent purpose, contrary to third-party rights or non-compliant with the Specific Terms
 - present Questovery as technology it owns, except for its own content, brands, scenarios, data or experiences.
 
 ## 6. Service Plans
@@ -170,12 +170,12 @@ The "Shared Core" plan applies when the Customer operates the Dedicated Deployme
 
 It may include, depending on the selected scenario:
 
-- access to Questovery within the Dedicated Deployment;
-- the hosting or operating assistance provided for;
-- corrective maintenance of the Questovery Common Core;
-- standard updates to the Questovery Common Core;
-- reasonable technical monitoring;
-- standard backups;
+- access to Questovery within the Dedicated Deployment
+- the hosting or operating assistance provided for
+- corrective maintenance of the Questovery Common Core
+- standard updates to the Questovery Common Core
+- reasonable technical monitoring
+- standard backups
 - routine operating support.
 
 ### 6.2. Shared Core Plan with Maintained Adaptations
@@ -190,19 +190,19 @@ It does not cover the Customer's new or substantial requests, nor custom develop
 
 The Specific Terms may provide for enhanced or custom services, including:
 
-- enhanced infrastructure resources;
-- high availability;
-- enhanced backups;
-- CDN;
-- significant storage;
-- video, heavy media or intensive geolocation use;
-- specific service levels;
-- intervention outside business hours;
-- on-site assistance;
-- advanced support;
-- specific development;
-- third-party integration;
-- advanced migration or reversibility;
+- enhanced infrastructure resources
+- high availability
+- enhanced backups
+- CDN
+- significant storage
+- video, heavy media or intensive geolocation use
+- specific service levels
+- intervention outside business hours
+- on-site assistance
+- advanced support
+- specific development
+- third-party integration
+- advanced migration or reversibility
 - maintenance of a functional variant specific to the Customer.
 
 These services require a quote, amendment, financial appendix or Specific Terms. No enhanced or custom service is included by default.
@@ -216,6 +216,9 @@ Unless otherwise stipulated in the Specific Terms, the following default paramet
 | Hosting scenario | Deployment administered by LEZO or by a provider chosen by LEZO, on cloud infrastructure or equivalent resources. |
 | Customer infrastructure / on-premises | Not included by default. It must be provided for in the Specific Terms. |
 | Included application scope | One production environment including the web, server/API, database and storage components necessary for the Dedicated Deployment. |
+| Application and media storage | Reasonable storage of data, media, photos, images or files necessary for ordinary operation of the subscribed routes or services. |
+| Transactional emails | Reasonable sending of transactional emails necessary for ordinary operation of the service, excluding marketing or mass emailing. |
+| Application traffic, APIs and standard mapping | Routine application and API traffic, together with standard mapping use necessary for the subscribed features, within the limits of reasonable use and costs normally absorbed by the fee. |
 | Test, acceptance or pre-production environments | Not included by default, except for a temporary environment made available by LEZO during an acceptance phase. |
 | Dedicated mobile application | Not included by default. When a dedicated mobile application is expressly included, it covers one application identity, one iOS application, one Android application and one listing per store, within the agreed functional scope. |
 | Store accounts | Publication through a Customer Store Account by default. Any publication through a LEZO Store Account must be accepted in writing. |
@@ -243,7 +246,9 @@ Unless otherwise stipulated in the Specific Terms, the following default paramet
 | LEZO notification address | simon@lezo.dev, unless LEZO communicates a different address. |
 | Applicable law and jurisdiction | French law; competent courts within the jurisdiction of Nantes, except mandatory rule to the contrary. |
 
-These default parameters may be supplemented, enhanced or replaced by the Specific Terms. Any request for high availability, enhanced backup, priority restoration, SLA, dedicated infrastructure, on-call duty, intervention outside business hours, additional environment, security audit, advanced export or migration requires a quote, amendment, financial appendix or written agreement.
+These default parameters constitute the standard scenario applicable without needing to be restated in the Specific Terms. The Specific Terms may supplement, enhance or replace them only for the elements they expressly cover.
+
+Any request for high availability, enhanced backup, priority restoration, SLA, dedicated infrastructure, on-call duty, intervention outside business hours, additional environment, security audit, advanced export, migration, dedicated CDN, enhanced storage, heavy video, video streaming or use of a third-party service exceeding the standard scope requires a quote, amendment, financial appendix or written agreement.
 
 ## 8. Start of the Dedicated Operations Fee
 
@@ -251,10 +256,10 @@ Unless otherwise stipulated, the Dedicated Operations Fee does not start during 
 
 It starts on the earliest of the following dates:
 
-- the effective publication of a dedicated mobile application on a store or distribution channel;
-- making the Dedicated Deployment available to real users;
-- the first Commercial Operation;
-- the Production Launch;
+- the effective publication of a dedicated mobile application on a store or distribution channel
+- making the Dedicated Deployment available to real users
+- the first Commercial Operation
+- the Production Launch
 - the date agreed in writing in the Specific Terms.
 
 When several applications, stores, environments, brands or routes are deployed progressively, the fee starts upon the first occurrence of one of the above events, unless otherwise stipulated.
@@ -277,7 +282,9 @@ Any late payment automatically and without prior reminder makes late-payment pen
 
 In the event of late payment, LEZO may suspend services, access, deliveries, maintenance, support or work in progress after notice remaining without effect for seven (7) calendar days, except in an emergency, security risk or stricter clause provided for in the Specific Terms.
 
-Travel, accommodation, licenses, media purchases, paid third-party services, store accounts, Apple fees, Google fees, commissions, Stripe fees, APIs, mapping, SMS, transactional emails, CDN, video, enhanced resources or exceptional costs are excluded unless otherwise stipulated.
+Travel, personal accommodation, licenses, media purchases, paid third-party services not provided for in the standard scope, store accounts, Apple fees, Google fees, commissions, Stripe fees, SMS, marketing or mass emailing uses, unplanned paid third-party APIs, exceptional mapping costs or costs exceeding reasonable use, dedicated CDNs, enhanced storage, heavy video, video streaming, enhanced resources or exceptional costs are excluded unless otherwise stipulated.
+
+Routine storage of media necessary for routes, routine transactional emails necessary for operation of the service, routine application and API traffic, and standard mapping use provided for in the subscribed functional scope are included in the reasonable sizing of the Dedicated Operations Fee, subject to the thresholds, volumes and resizing conditions set out in these Dedicated Deployment Terms or the Specific Terms.
 
 ## 10. Sizing, Thresholds and Pricing Changes
 
@@ -287,16 +294,17 @@ Technical thresholds do not constitute a guarantee of commercial volume, number 
 
 The following may in particular justify resizing, infrastructure migration, upgrade to a higher plan, amending financial appendix, amendment or additional quote:
 
-- a sustained average CPU load above seventy percent (70%);
-- sustained average memory consumption above eighty percent (80%);
-- sustained storage occupancy above eighty percent (80%);
-- a significant volume of media, photos, videos, files or bandwidth;
-- a significant increase in API traffic, synchronization, processing, backups or geolocation uses;
-- addition of mobile applications, brands, environments, store listings or distribution channels;
-- a need for enhanced resources, high availability, enhanced backup, CDN, significant storage, heavy video or exceptional capacity;
-- maintenance of Maintained Adaptations not initially planned;
-- custom development or a functional variant specific to the Customer;
-- a customer infrastructure constraint increasing the operating workload;
+- a sustained average CPU load above seventy percent (70%)
+- sustained average memory consumption above eighty percent (80%)
+- sustained storage occupancy above eighty percent (80%)
+- a significant volume of media, photos, videos, files or bandwidth
+- a significant increase in API traffic, synchronization, processing, backups or geolocation uses
+- a significant increase in the volume of transactional emails, mapping service costs or third-party service costs necessary for operation
+- addition of mobile applications, brands, environments, store listings or distribution channels
+- a need for enhanced resources, high availability, enhanced backup, dedicated CDN, significant storage, heavy video, video streaming or exceptional capacity
+- maintenance of Maintained Adaptations not initially planned
+- custom development or a functional variant specific to the Customer
+- a customer infrastructure constraint increasing the operating workload
 - changes in costs imposed by a third-party provider.
 
 When the necessary change corresponds to a tier or plan already provided for in the Specific Terms, LEZO may notify application of that tier or plan for the following billing period, without retroactive effect, unless otherwise agreed.
@@ -407,15 +415,15 @@ LEZO is not responsible for KYC validations, refusal to open accounts, blocks, s
 
 The Customer remains responsible for:
 
-- its content, scenarios, texts, images, videos, sounds, riddles, routes, brands and commercial materials;
-- the lawfulness of content and media supplied or imported;
-- its commercial relationship with its end customers, players, partners, distributors, tourist sites, public authorities, hosts or providers;
-- its prices, sales terms, terms of use, legal notices, privacy policies and information obligations;
-- first-level support to its end users, unless otherwise agreed;
-- managing refunds, commercial complaints, customer disputes and tax obligations;
-- information, access, validations, content and elements necessary for operation;
-- security of its equipment, networks, accounts, passwords, terminals, administrator access and internal practices;
-- compliance of its infrastructure when supplied or chosen by it;
+- its content, scenarios, texts, images, videos, sounds, riddles, routes, brands and commercial materials
+- the lawfulness of content and media supplied or imported
+- its commercial relationship with its end customers, players, partners, distributors, tourist sites, public authorities, hosts or providers
+- its prices, sales terms, terms of use, legal notices, privacy policies and information obligations
+- first-level support to its end users, unless otherwise agreed
+- managing refunds, commercial complaints, customer disputes and tax obligations
+- information, access, validations, content and elements necessary for operation
+- security of its equipment, networks, accounts, passwords, terminals, administrator access and internal practices
+- compliance of its infrastructure when supplied or chosen by it
 - compliance with rules applicable to personal data for processing operations for which it is responsible.
 
 The Customer declares that it has, or undertakes to put in place before any Commercial Operation, the information documents and terms applicable to its end customers and players, including general terms and conditions of sale or use, privacy policy, legal notices, information relating to payments, refunds, geolocation, photos, media, minors where applicable, and any required consent.
@@ -452,13 +460,13 @@ Processing may in particular concern accounts, identifiers, contact details, con
 
 LEZO undertakes, as processor, to:
 
-- process personal data only on documented instruction from the Customer, with these Dedicated Deployment Terms, the Specific Terms and the Customer's written requests constituting documented instructions;
-- inform the Customer if an instruction appears to LEZO to be manifestly contrary to the GDPR or another applicable data protection rule;
-- ensure that persons authorized to process the data are subject to an appropriate confidentiality obligation;
-- implement reasonable technical and organizational measures adapted to the service, risks and deployment scenario;
-- reasonably assist the Customer, taking into account the nature of the service and the information available, in responding to data subject requests, security obligations, data breach notifications and impact assessments where the relevant processing falls within the Dedicated Deployment scope;
-- notify the Customer, as soon as reasonably possible after becoming aware of it, of any personal data breach affecting data processed on its behalf and likely to impose a notification obligation on the Customer;
-- make available the information reasonably necessary to demonstrate compliance with the obligations set out in this article and allow reasonable documentary audits, within the limits of security, confidentiality, third-party rights, trade secrets and the contractual scope;
+- process personal data only on documented instruction from the Customer, with these Dedicated Deployment Terms, the Specific Terms and the Customer's written requests constituting documented instructions
+- inform the Customer if an instruction appears to LEZO to be manifestly contrary to the GDPR or another applicable data protection rule
+- ensure that persons authorized to process the data are subject to an appropriate confidentiality obligation
+- implement reasonable technical and organizational measures adapted to the service, risks and deployment scenario
+- reasonably assist the Customer, taking into account the nature of the service and the information available, in responding to data subject requests, security obligations, data breach notifications and impact assessments where the relevant processing falls within the Dedicated Deployment scope
+- notify the Customer, as soon as reasonably possible after becoming aware of it, of any personal data breach affecting data processed on its behalf and likely to impose a notification obligation on the Customer
+- make available the information reasonably necessary to demonstrate compliance with the obligations set out in this article and allow reasonable documentary audits, within the limits of security, confidentiality, third-party rights, trade secrets and the contractual scope
 - delete, anonymize or return the data at the end of the service according to the reversibility and deletion rules provided for in these Dedicated Deployment Terms, except legal obligation, evidentiary need, temporary backup or documented technical constraint.
 
 The Customer authorizes LEZO to use further processors and technical providers necessary for performance of the service, including hosts, cloud services, storage, transactional email, supervision, error management, payment, mapping, analytics, stores, support tools or equivalent services. LEZO remains responsible towards the Customer for proper performance of the services entrusted to such further processors within the limits of the applicable contractual documents and ensures that they are subject to appropriate data protection obligations.
@@ -485,15 +493,15 @@ Technical and security logs are retained according to the default parameters in 
 
 LEZO may suspend all or part of the service, without compensation to the Customer, in the following cases:
 
-- non-payment;
-- substantial breach of the applicable contractual documents;
-- unlawful, fraudulent, abusive or non-compliant use of the Solution;
-- serious risk to the security, stability, integrity or availability of Questovery;
-- infringement of LEZO's or third-party rights;
-- manifestly unlawful content or content likely to incur LEZO's liability;
-- behavior by the Customer or its users jeopardizing the Solution, data or third-party rights;
-- significant and sustained exceeding of included capacities without agreement on a pricing adaptation;
-- constraint imposed by a store, third-party provider, administrative authority or court decision;
+- non-payment
+- substantial breach of the applicable contractual documents
+- unlawful, fraudulent, abusive or non-compliant use of the Solution
+- serious risk to the security, stability, integrity or availability of Questovery
+- infringement of LEZO's or third-party rights
+- manifestly unlawful content or content likely to incur LEZO's liability
+- behavior by the Customer or its users jeopardizing the Solution, data or third-party rights
+- significant and sustained exceeding of included capacities without agreement on a pricing adaptation
+- constraint imposed by a store, third-party provider, administrative authority or court decision
 - inability to intervene under reasonable conditions on customer infrastructure.
 
 Except in an emergency, legal risk, security risk or legal constraint, LEZO informs the Customer of the suspension and its reasons.
