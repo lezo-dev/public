@@ -1,6 +1,6 @@
 # Conditions générales du service de déploiement dédié Questovery
 
-Version 1.2 - en vigueur à compter du 29 mai 2026.
+Version 1.3 - en vigueur à compter du 1er juin 2026.
 
 LEZO, entreprise unipersonnelle à responsabilité limitée au capital social de 100 euros, immatriculée sous le numéro SIREN 921 329 025, établissement SIRET 921 329 025 00024, RCS Nantes, TVA intracommunautaire FR23921329025, dont le siège social est situé 21 Boulevard Auguste Pageot, 44000 Nantes, représentée par Monsieur Simon BOISSET, agissant en qualité de gérant, est l'éditeur et le prestataire du service de déploiement dédié Questovery.
 
@@ -238,7 +238,7 @@ Sauf stipulation contraire dans les Conditions particulières, les paramètres p
 | Mise à disposition de l'export standard | Délai cible de trente (30) jours calendaires après demande recevable et paiement des sommes dues, sous réserve du volume, de la complexité et des données effectivement disponibles. |
 | Suppression après fin du service | Suppression ou anonymisation des données actives après mise à disposition des exports ou expiration d'un délai de soixante (60) jours calendaires suivant la fin effective du service. |
 | Suppression des sauvegardes résiduelles | Écrasement selon les cycles normaux de rotation, dans un délai cible maximal de quatre-vingt-dix (90) jours calendaires, sauf obligation légale, besoin de preuve, incident de sécurité ou contrainte technique documentée. |
-| Recette d'une livraison | Dix (10) jours ouvrés après notification de livraison. A défaut de réserve motivée, ou en cas d'usage réel hors test, la livraison est réputée acceptée. |
+| Recette d'une livraison | Vingt (20) jours ouvrés après notification de livraison. A défaut de réserve motivée, ou en cas d'usage réel hors test, la livraison est réputée acceptée. |
 | Durée | Durée indéterminée à compter du démarrage du Forfait d'exploitation dédié. |
 | Résiliation pour convenance | Préavis de trois (3) mois. |
 | Adresse de notification LEZO | simon@lezo.dev, sauf adresse différente communiquée par LEZO. |
@@ -339,7 +339,7 @@ Sauf urgence, risque de sécurité ou contrainte technique, LEZO s'efforce d'inf
 
 Lorsqu'une livraison est soumise à recette, LEZO la notifie au Client par écrit, notamment par courrier électronique.
 
-Sauf délai différent prévu dans les Conditions particulières, le Client dispose de dix (10) jours ouvrés à compter de cette notification pour tester la livraison, signaler les anomalies substantielles et objectivement vérifiables au regard du périmètre convenu, accepter la livraison ou formuler des réserves motivées.
+Sauf délai différent prévu dans les Conditions particulières, le Client dispose de vingt (20) jours ouvrés à compter de cette notification pour tester la livraison, signaler les anomalies substantielles et objectivement vérifiables au regard du périmètre convenu, accepter la livraison ou formuler des réserves motivées.
 
 Les réserves doivent être suffisamment précises pour permettre leur reproduction et leur traitement. Elles doivent distinguer les anomalies bloquantes, majeures et mineures.
 

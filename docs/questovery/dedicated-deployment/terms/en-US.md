@@ -1,6 +1,6 @@
 # General Terms and Conditions for the Questovery Dedicated Deployment Service
 
-Version 1.2 - effective as of May 29, 2026.
+Version 1.3 - effective as of June 1, 2026.
 
 **Reference language notice:** This English translation is provided for convenience only. In case of discrepancy, inconsistency, or interpretation difference, the French version shall prevail.
 
@@ -240,7 +240,7 @@ Unless otherwise stipulated in the Specific Terms, the following default paramet
 | Availability of standard export | Target period of thirty (30) calendar days after a valid request and payment of amounts due, subject to volume, complexity and data actually available. |
 | Deletion after end of service | Deletion or anonymization of active data after exports are made available or expiry of sixty (60) calendar days following the effective end of the service. |
 | Deletion of residual backups | Overwriting according to normal rotation cycles, within a maximum target period of ninety (90) calendar days, except legal obligation, evidentiary need, security incident or documented technical constraint. |
-| Acceptance of a delivery | Ten (10) business days after delivery notice. In the absence of a reasoned reservation, or in the event of actual use outside testing, the delivery is deemed accepted. |
+| Acceptance of a delivery | Twenty (20) business days after delivery notice. In the absence of a reasoned reservation, or in the event of actual use outside testing, the delivery is deemed accepted. |
 | Term | Indefinite term from the start of the Dedicated Operations Fee. |
 | Termination for convenience | Three (3) months' notice. |
 | LEZO notification address | simon@lezo.dev, unless LEZO communicates a different address. |
@@ -341,7 +341,7 @@ Except in an emergency, security risk or technical constraint, LEZO endeavors to
 
 When a delivery is subject to acceptance testing, LEZO notifies the Customer in writing, including by email.
 
-Unless a different period is provided for in the Specific Terms, the Customer has ten (10) business days from this notice to test the delivery, report substantial and objectively verifiable anomalies in relation to the agreed scope, accept the delivery or formulate reasoned reservations.
+Unless a different period is provided for in the Specific Terms, the Customer has twenty (20) business days from this notice to test the delivery, report substantial and objectively verifiable anomalies in relation to the agreed scope, accept the delivery or formulate reasoned reservations.
 
 Reservations must be sufficiently precise to allow reproduction and handling. They must distinguish blocking, major and minor anomalies.
 
